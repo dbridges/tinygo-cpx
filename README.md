@@ -5,6 +5,7 @@ A utility library for [TinyGo](https://tinygo.org) and Adafruit's [Circuit Playg
 Peripherals currently supported:
 
 * Red LED
+* Push buttons
 * NeoPixels
 
 ## Usage

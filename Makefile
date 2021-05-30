@@ -1,6 +1,7 @@
-.PHONY: all led neo
+.PHONY: button led neo
 
-all: led
+button:
+	tinygo flash -target=circuitplay-express examples/button/button.go
 
 led:
 	tinygo flash -target=circuitplay-express examples/led/led.go
