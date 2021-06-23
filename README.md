@@ -12,7 +12,7 @@ Peripherals currently supported:
 ## Usage
 
 ```
-go get dbridges/tinygo-cpx
+go get -u github.com/dbridges/tinygo-cpx
 ```
 
 See the [examples](https://github.com/dbridges/tinygo-cpx/tree/main/examples) directory for information on each peripheral.
@@ -24,8 +24,8 @@ package main
 
 import (
 	"time"
-	"tinygo-cpx/cpx"
-	"tinygo-cpx/led"
+	"github.com/dbridges/tinygo-cpx/cpx"
+	"github.com/dbridges/tinygo-cpx/led"
 )
 
 func main() {

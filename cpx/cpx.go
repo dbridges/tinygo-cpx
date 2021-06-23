@@ -1,10 +1,10 @@
 package cpx
 
 import (
-	"tinygo-cpx/button"
-	"tinygo-cpx/ir"
-	"tinygo-cpx/led"
-	"tinygo-cpx/neo"
+	"github.com/dbridges/tinygo-cpx/button"
+	"github.com/dbridges/tinygo-cpx/ir"
+	"github.com/dbridges/tinygo-cpx/led"
+	"github.com/dbridges/tinygo-cpx/neo"
 )
 
 // Init initializes all peripherals on the Circuit Playground Express.

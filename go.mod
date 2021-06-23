@@ -1,4 +1,4 @@
-module tinygo-cpx
+module github.com/dbridges/tinygo-cpx
 
 go 1.16
 

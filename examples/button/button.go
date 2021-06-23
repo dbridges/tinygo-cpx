@@ -1,9 +1,9 @@
 package main
 
 import (
-	"tinygo-cpx/button"
-	"tinygo-cpx/cpx"
-	"tinygo-cpx/led"
+	"github.com/dbridges/tinygo-cpx/button"
+	"github.com/dbridges/tinygo-cpx/cpx"
+	"github.com/dbridges/tinygo-cpx/led"
 )
 
 func main() {

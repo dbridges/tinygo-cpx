@@ -2,8 +2,9 @@ package main
 
 import (
 	"time"
-	"tinygo-cpx/cpx"
-	"tinygo-cpx/neo"
+
+	"github.com/dbridges/tinygo-cpx/cpx"
+	"github.com/dbridges/tinygo-cpx/neo"
 )
 
 func main() {
