@@ -7,6 +7,7 @@ Peripherals currently supported:
 * Red LED
 * Push buttons
 * NeoPixels
+* IR Receiver (NEC only)
 
 ## Usage
 
